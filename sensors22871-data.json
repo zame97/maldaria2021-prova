@@ -1,72 +1,72 @@
 [
   {
+    "timestamp": "2022-02-04 16:12:19",
+    "id": 8996217963,
     "sampling_rate": null,
-    "sensordatavalues": [
-      {
-        "id": 19848059824,
-        "value_type": "P1",
-        "value": "49.47"
-      },
-      {
-        "id": 19848059843,
-        "value_type": "P2",
-        "value": "26.45"
-      }
-    ],
     "sensor": {
-      "sensor_type": {
-        "name": "SDS011",
-        "id": 14,
-        "manufacturer": "Nova Fitness"
-      },
       "id": 22871,
+      "sensor_type": {
+        "id": 14,
+        "manufacturer": "Nova Fitness",
+        "name": "SDS011"
+      },
       "pin": "1"
     },
-    "timestamp": "2022-02-04 15:16:13",
-    "id": 8995639029,
     "location": {
+      "id": 11603,
       "indoor": 0,
-      "altitude": "94.4",
       "latitude": "44.91",
-      "exact_location": 0,
+      "altitude": "94.4",
       "country": "IT",
-      "longitude": "8.63",
-      "id": 11603
-    }
+      "exact_location": 0,
+      "longitude": "8.63"
+    },
+    "sensordatavalues": [
+      {
+        "value_type": "P1",
+        "id": 19849375017,
+        "value": "42.70"
+      },
+      {
+        "value_type": "P2",
+        "id": 19849375018,
+        "value": "29.85"
+      }
+    ]
   },
   {
+    "timestamp": "2022-02-04 16:09:48",
+    "id": 8996191980,
     "sampling_rate": null,
-    "sensordatavalues": [
-      {
-        "id": 19847999719,
-        "value_type": "P1",
-        "value": "43.08"
-      },
-      {
-        "id": 19847999720,
-        "value_type": "P2",
-        "value": "27.45"
-      }
-    ],
     "sensor": {
-      "sensor_type": {
-        "name": "SDS011",
-        "id": 14,
-        "manufacturer": "Nova Fitness"
-      },
       "id": 22871,
+      "sensor_type": {
+        "id": 14,
+        "manufacturer": "Nova Fitness",
+        "name": "SDS011"
+      },
       "pin": "1"
     },
-    "timestamp": "2022-02-04 15:13:46",
-    "id": 8995612644,
     "location": {
+      "id": 11603,
       "indoor": 0,
-      "altitude": "94.4",
       "latitude": "44.91",
-      "exact_location": 0,
+      "altitude": "94.4",
       "country": "IT",
-      "longitude": "8.63",
-      "id": 11603
-    }
+      "exact_location": 0,
+      "longitude": "8.63"
+    },
+    "sensordatavalues": [
+      {
+        "value_type": "P1",
+        "id": 19849316130,
+        "value": "46.30"
+      },
+      {
+        "value_type": "P2",
+        "id": 19849316132,
+        "value": "28.13"
+      }
+    ]
   }
 ]
